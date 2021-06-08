@@ -1,5 +1,7 @@
 # Propedeutico de programacion para la Maestría en Ciencia de Datos 2021
 
+# ¡HOLA A TODOS!
+
 En este repositorio se encontrarás las notas para el curso propedéutico de programación para la Maestría en Ciencia de Datos en el año 2021. Material adicional será proporcionado durante clases.
 
 `Semana 1.` **Conociendo python**
